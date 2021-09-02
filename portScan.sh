@@ -10,7 +10,6 @@ function ctrl_c(){
 
 }
 
-
 # Main Port Scan
 
 read -e -p "Insert the ip to scan: " ipaddress
