@@ -3,6 +3,8 @@ So simple script. For fast port scan
 ## First bash script
 
 ```
-**Usage**: ./portScan 10.10.10.1
+First: chmod +x portScan
+
+Usage: ./portScan 10.10.10.1
 
 ```
