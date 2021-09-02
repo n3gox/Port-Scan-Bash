@@ -7,7 +7,6 @@ trap ctrl_c INT
 function ctrl_c(){
         echo -e "\n[-] Exiting..."
         tput cnorm; exit 1
-
 }
 
 # Main Port Scan
