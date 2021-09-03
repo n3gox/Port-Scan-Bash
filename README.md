@@ -1,10 +1,12 @@
-So simple script. For fast port scan
+<h3 align="center">Port Scanner in bash</h3>
 
-## First bash script
+- ⚡ Tool written in bash language **portScan (TCP)**
 
-```
-First: chmod +x portScan
+- 📄 I'm openned to listen new ideas to improve the code. Im learning
 
-Usage: ./portScan 10.10.10.1
+- 📝 USAGE:
 
-```
+      - git clone the repo
+      - chmod +x portScan.sh
+      - ./portScan.sh , then the program will ask you what ip would to scan.
+
