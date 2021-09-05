@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Control+C
-
 trap ctrl_c INT
 
 function ctrl_c(){
