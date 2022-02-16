@@ -6,6 +6,8 @@
 
 - 📝 USAGE:
 
-      - git clone the repo
+      - git clone https://github.com/n3gox/Port-Scan-Bash.git
       - chmod +x portScan.sh
       - ./portScan.sh , then the program will ask you what ip would to scan.
+      - EXAMPLE :
+            ./portScan.sh <IP>
